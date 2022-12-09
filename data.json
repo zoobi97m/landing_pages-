@@ -1,0 +1,61 @@
+{
+  "faqs": [
+    {
+      "slug": "airfilters",
+      "title": "Air Filters",
+      "desc": "An air filter works to remove a range of harmful pollutants from the air such as pollen and dust in order to protect the engine and support performance.",
+      "faq": [
+        {
+          "q": "How do I know when I should be cleaning my air filter?",
+          "a": "It is best practice to clean your air filter consistently to avoid any damage or issues occurring. Although there are some signs that may demonstrate when it is necessary to clean your air filter which include it looking dirty, alarming noises, a strong smell of fuel, your check engine light coming on, you are experiencing decreasing gas mileage, your engine misfiring or misses and many more."
+        },
+        {
+          "q": "What problems can a bad/faulty air filter cause?",
+          "a": "There are a number of problems you may experience from a bad or faulty air filter such as decreased fuel economy and decreased performance, black smoke or dust within the exhaust, the smell of petrol, unusual engine noises and more."
+        },
+        {
+          "q": "How often should my air filter be changed?",
+          "a": "On average it is recommended to change your air filter approximately every 15,000 to 30,000kms or yearly, depending on which occurs first. Changing your air filter when needed is beneficial to avoid damage and any issues arising."
+        }
+      ]
+    },
+    {
+      "slug": "oilfilters",
+      "title": "Oil Filters",
+      "desc": "An oil filter removes any contaminants from your engine oil such as dust, dirt, unburned fuel and other contaminants to avoid build-up over time and protect the longevity of your engine and vehicle.",
+      "faq": [
+        {
+          "q": "How many types of oil filters are there?",
+          "a": "In the market, there are two main types of oil filters categorised as primary and secondary oil filters. Within these two general types, there are a wide variety of oil filters. At Filters & More, we stock over 500 different types of oil filters - ensuring we have one for everyone's needs and requirements."
+        },
+        {
+          "q": "What are the different brands of oil filters?",
+          "a": "If you are looking for an oil filter, there are various brands to choose from. The most popular brand and one we stock at Filters & More is Sakura, which manufactures a large variety of different oil filters depending on your specific needs."
+        },
+        {
+          "q": "How often should oil filters be changed?",
+          "a": "The frequency of an oil filter change is largely dependent on what your manufacturer recommends depending on your circumstance, although as a general rule it is recommended for an oil filter to be changed every 3 to 6 months."
+        }
+      ]
+    },
+    {
+      "slug": "fuelfilters",
+      "title": "Fuel Filter",
+      "desc": "Fuel filters work to filter out any debris or dirt which may be found in your fuel system. Filtering these out will assist in maintaining the required fuel flow needed for the functioning of your vehicle.",
+      "faq": [
+        {
+          "q": "What are the signs of a fuel filter going out?",
+          "a": "If you think your fuel filter is going out, you may be experiencing stalling, hard starting, poor engine performance, fuel system part failures or random misfire as signs. If you experience these signs, it is recommended to replace your fuel filter as soon as possible. Reach out to the team at Filters & More to answer any questions about your fuel filter."
+        },
+        {
+          "q": "Does it matter which fuel filter I use?",
+          "a": "Using a high-quality fuel filter is always best, although it is recommended to speak to your manufacturer to ensure that you are using a fuel filter that is best suited for you and your needs."
+        },
+        {
+          "q": "How often should Fuel filters be changed?",
+          "a": "The frequency of when you should replace your fuel filter is dependent on your use. This refers to whether you drive on unpaved roads regularly or drive near where they may be higher volumes of dust or debris. On average, it is recommended that you change your fuel filter approximately every 2 years or every 50,000km, ideally whichever comes first."
+        }
+      ]
+    }
+  ]
+}

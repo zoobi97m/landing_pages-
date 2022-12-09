@@ -1,0 +1,97 @@
+
+
+.hamburger_toggle, .navbar-toggler{
+    border-color: #212529;
+    background-color: #ffffff;
+    
+    top:0%;
+   
+    margin: 0;
+    
+}
+
+
+
+
+
+#bg_img{
+    background-image: url("pics/filters_all.webp");
+    background-repeat: no-repeat;
+    opacity: 0.2;
+    background-size: cover;
+    max-width: 100%;
+    height: 60vh;
+
+}
+
+#bg_img_af{
+    background-image: url("pics/airFilter.webp");
+    background-repeat: no-repeat;
+    opacity: 0.5;
+    background-size: cover;
+    max-width: 35%;
+    height: 60vh;
+
+}
+
+
+#bg_img_of{
+    background-image: url("pics/OilFilter.webp");
+    background-repeat: no-repeat;
+    opacity: 0.5;
+    background-size: cover;
+    max-width: 35%;
+    height: 60vh;
+
+}
+
+
+#bg_img_ff{
+    background-image: url("pics/fuelFilter.webp");
+    background-repeat: no-repeat;
+    opacity: 0.5;
+    background-size: cover;
+    max-width: 40%;
+    height: 60vh;
+
+}
+
+
+
+
+.btn-primary
+{
+    background-color: #212529;
+    border-color: #212529;
+}
+
+.spacer_div
+{
+     width: 100%;
+   height: 10px;
+   bottom:0%;
+        background-color: #212529;
+      
+
+}
+
+
+.spacer_div_2
+{
+     width: 100%;
+   height: 60px;
+   bottom:0%;
+
+
+}
+
+
+.desc
+{
+    font-size: large;
+    color: #212529;
+    max-width: 50%;
+
+    
+}
+
